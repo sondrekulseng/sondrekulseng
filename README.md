@@ -1,9 +1,8 @@
 ### Hei, jeg er Sondre 👋
 :mortar_board: Gjennomfører mitt siste år på bachelor innenfor IT ved OsloMet. <br />
-:atom: Mine favoritt språk er Java, Python, C# og JavaScript:)
+:atom: Mine favoritt språk er Java, Python, C# og JavaScript!
 
-Besøk meg gjerne på LinkedIn: https://www.linkedin.com/in/sondre-kulseng-2b01021a3/ 
-
+Besøk meg gjerne på [LinkedIn](https://www.linkedin.com/in/sondre-kulseng-2b01021a3/) eller min [github.io](https://sondrekulseng.github.io/) side;)
 
 
 
