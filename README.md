@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hei, jeg er Sondre 👋
+:mortar_board: Gjennomfører mitt siste år på bachelor innenfor IT ved OsloMet. <br />
+:atom: Mine favoritt språk er Java, Python, C# og JavaScript:)
+
+Besøk meg gjerne på LinkedIn: https://www.linkedin.com/in/sondre-kulseng-2b01021a3/ 
+
+
+
 
 <!--
 **sondrekulseng/sondrekulseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Studerer mitt siste år på IT ved OsloMet
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
