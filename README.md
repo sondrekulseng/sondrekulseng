@@ -1,9 +1,11 @@
-### Hi there, I'm Sondre 👋
-Passion for programming and open-source software:heart: 
+### Hi there! I'm Sondre 👋
+Developer @ Sopra Steria
 
-Check out my latest open-source project: https://github.com/sondrekulseng/aircrack.sh
+Passion for programming and open-source software!
 
-Add me on [LinkedIn](https://www.linkedin.com/in/sondre-kulseng-2b01021a3/)
+<a href="https://www.linkedin.com/in/sondre-kulseng-2b01021a3/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ### Language and Tools
 <p align="left"> 
@@ -19,20 +21,3 @@ Add me on [LinkedIn](https://www.linkedin.com/in/sondre-kulseng-2b01021a3/)
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-
-
-<!--
-**sondrekulseng/sondrekulseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Studerer mitt siste år på IT ved OsloMet
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
